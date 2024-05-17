@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @zeygap
 - 🌱 I’m currently learning java
+- I'm learning GitHub
 
 <!---
 zeygap/zeygap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
