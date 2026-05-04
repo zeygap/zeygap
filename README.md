@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zeygap
-- 🌱 I’m currently learning java
+- 💻 Student 
 - I'm learning GitHub
 
 <!---
